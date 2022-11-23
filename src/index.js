@@ -75,10 +75,10 @@ const stylish = (data, depth = 1) => {
   ].join('\n');
 };
 
-const gendiff = (filePath1, filePath2) => {
+const genDiff = (filePath1, filePath2) => {
   const data1 = JSON.parse(getData(filePath1));
   const data2 = JSON.parse(getData(filePath2));
   return stylish(buildTree(data1, data2));
 };
-  
-  export default gendiff;
+
+export default genDiff;
