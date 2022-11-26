@@ -5,3 +5,7 @@
 
 **Comparison JSON plain files**
 [![asciicast](https://asciinema.org/a/FR8AMsa9ihPlIbwbqOSGZPLFk.svg)](https://asciinema.org/a/FR8AMsa9ihPlIbwbqOSGZPLFk)
+[![asciicast](https://asciinema.org/a/uIT6069pkgrbEgUnPCOUmdW87.svg)](https://asciinema.org/a/uIT6069pkgrbEgUnPCOUmdW87)
+
+**Comparison JSON & YAML nested files**
+[![asciicast](https://asciinema.org/a/vjVeqoTcnOzmC4RjcOYeDQuu4.svg)](https://asciinema.org/a/vjVeqoTcnOzmC4RjcOYeDQuu4)
