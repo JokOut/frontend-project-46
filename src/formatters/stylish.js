@@ -20,7 +20,6 @@ const getValue = (node, depth) => {
 const stylish = (data, depth = 1) => {
   const indent = getIndent(depth).slice(0, getIndent(depth) - 2);
   const bracketEndIndent = getIndent(depth - 1);
-
   const lines = data.flatMap((diff) => {
     switch (diff.type) {
       case 'nested':
@@ -40,7 +39,6 @@ const stylish = (data, depth = 1) => {
         throw new Error(`Unknown type of data: ${diff.type}`);
     }
   });
-
   return [
     '{',
     ...lines,
