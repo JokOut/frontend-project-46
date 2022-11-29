@@ -10,11 +10,7 @@ const getValue = (node, depth) => {
   const bracketEndIndent = getIndent(depth - 1);
   const lines = Object.entries(node).map(([key, value]) => `${getIndent(depth)}${key}: ${getValue(value, depth + 1)}`);
 
-  return [
-    '{',
-    ...lines,
-    `${bracketEndIndent}}`,
-  ].join('\n');
+  return ['{', ...lines, `${bracketEndIndent}}`].join('\n');
 };
 
 const stylish = (data, depth = 1) => {
