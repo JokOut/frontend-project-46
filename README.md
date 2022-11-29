@@ -11,8 +11,7 @@ The gendiff application is designed to display the differences between ".json" a
 **Installation**
 To install "genDiff.js" locally:
 ```
-    git clone https://github.com/thealeksander/frontend-project-lvl2.git
-    cd frontend-project-lvl2
+    git clone https://github.com/JokOut/frontend-project-46.git
     make install
 ```
 
