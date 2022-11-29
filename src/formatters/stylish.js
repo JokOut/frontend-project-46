@@ -39,11 +39,7 @@ const stylish = (data, depth = 1) => {
         throw new Error(`Unknown type of data: ${diff.type}`);
     }
   });
-  return [
-    '{',
-    ...lines,
-    `${bracketEndIndent}}`,
-  ].join('\n');
+  return ['{', ...lines, `${bracketEndIndent}}`].join('\n');
 };
 
 export default stylish;
