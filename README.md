@@ -17,15 +17,15 @@ To install "genDiff.js" locally:
 
 # Examples
 
-**Comparison JSON & YAML plain files**
+**Comparison of JSON & YAML plain files**
 [![asciicast](https://asciinema.org/a/FR8AMsa9ihPlIbwbqOSGZPLFk.svg)](https://asciinema.org/a/FR8AMsa9ihPlIbwbqOSGZPLFk)
 [![asciicast](https://asciinema.org/a/uIT6069pkgrbEgUnPCOUmdW87.svg)](https://asciinema.org/a/uIT6069pkgrbEgUnPCOUmdW87)
 
-**Comparison JSON & YAML nested files**
+**Comparison of JSON & YAML nested files**
 [![asciicast](https://asciinema.org/a/vjVeqoTcnOzmC4RjcOYeDQuu4.svg)](https://asciinema.org/a/vjVeqoTcnOzmC4RjcOYeDQuu4)
 
-**Comparison JSON & YAML nested files in 'plain'**
+**Comparison of JSON & YAML nested files in 'plain'**
 [![asciicast](https://asciinema.org/a/8BXPXD5MqdWfLCLy2yhMpU7ua.svg)](https://asciinema.org/a/8BXPXD5MqdWfLCLy2yhMpU7ua)
 
-**Comparison JSON & YAML nested files in 'json'**
+**Comparison of JSON & YAML nested files in 'json'**
 [![asciicast](https://asciinema.org/a/BlZUcs3M175uu2jpE8ajRHP5y.svg)](https://asciinema.org/a/BlZUcs3M175uu2jpE8ajRHP5y)
