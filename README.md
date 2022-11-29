@@ -5,17 +5,17 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/5d6980f03405c43a629f/test_coverage)](https://codeclimate.com/github/JokOut/frontend-project-46/test_coverage)
 
 
-**gendiff.js**
-*The gendiff application is designed to display the differences between ".json" and ".yml" files in various formats.*
+# gendiff.js
+The gendiff application is designed to display the differences between ".json" and ".yml" files in various formats.
 
-**Installation**
-*To install "genDiff.js" locally:*
+# Installation
+To install "genDiff.js" locally:
 ```
     git clone https://github.com/JokOut/frontend-project-46.git
     make install
 ```
 
-**Examples**
+# Examples
 
 **Comparison JSON & YAML plain files**
 [![asciicast](https://asciinema.org/a/FR8AMsa9ihPlIbwbqOSGZPLFk.svg)](https://asciinema.org/a/FR8AMsa9ihPlIbwbqOSGZPLFk)
