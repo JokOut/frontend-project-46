@@ -6,10 +6,10 @@
 
 
 **gendiff.js**
-The gendiff application is designed to display the differences between ".json" and ".yml" files in various formats.
+*The gendiff application is designed to display the differences between ".json" and ".yml" files in various formats.*
 
 **Installation**
-To install "genDiff.js" locally:
+*To install "genDiff.js" locally:*
 ```
     git clone https://github.com/JokOut/frontend-project-46.git
     make install
